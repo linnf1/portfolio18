@@ -1,0 +1,20 @@
+.fancyhead {
+  background-image: url(https://mikkegoes.com/wp-content/uploads/2017/02/css-code-laptop.jpeg)
+}
+
+.floatimg {
+  float: left;
+}
+
+body {
+  background-color: white;
+}
+
+.ba {
+    border-style: solid;
+    border-width: 10px;
+}
+
+.redborder {
+  border-color: #ff7c75;
+}
