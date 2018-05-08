@@ -1,0 +1,21 @@
+#showcase1 {
+	position: relative;
+	background: url('https://images.pexels.com/photos/6565/apple-desk-laptop-working.jpg?w=1260&h=750&auto=compress&cs=tinysrgb') center center no-repeat fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	min-height: 700px;
+}
+
+
+/* Projects Section */
+
+.projects-header {
+	width: 75%;
+	margin: auto;
+	border-bottom: 1px #dddddd solid;
+}
+
+/* ------ */
+

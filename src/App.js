@@ -4,13 +4,12 @@ import logo from './prof1.jpg';
 import Nav from './components/Nav';
 import Body from './components/Body';
 
-
 class App extends Component {
   render() {
     return (
       <div className="">
-        <div className="cover bg-left bg-center-l fancyhead">
-          <div className="bg-black-80 pb5 pb6-m pb10-l">
+        <div id='showcase' className="showcase">
+          <div className="bg-black-70 pb5 pb6-m pb10-l">
             <Nav />
 
             <div className='pl5'>
