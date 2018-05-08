@@ -1,13 +1,15 @@
 import React from 'react';
 import './Slider.css';
+import tab1 from './1tab.jpg';
 
 const Slider = () => {
 	return(
       <div id='slider'>
       <div class="tabs">
           <input type="radio" name="tabs" id="tabone"/>
-          <label for="tabone" className="dim "><img src="http://placekitten.com/g/300/300"
+          <label for="tabone" className="dim "><img src={tab1}
            className="db w-100 br--top" alt="first"/></label>
+          }
 					<div className="tab pa4 ph7-l georgia mw9-l center">
               <h1>Overtime Logging Application</h1>
               <p className="f5 f3-ns lh-copy measure georgia">
@@ -74,7 +76,7 @@ const Slider = () => {
           </div>
 
           <input type="radio" name="tabs" id="tabfive"/>
-          <label for="tabfive" className="dim "><img src="http://placekitten.com/g/300/300"
+          <label for="tabfive" className="dim "><img src=""
            className="db w-100 br--top" alt="first"/></label>
 					<div className="tab pa4 ph7-l georgia mw9-l center">
               <h1>Overtime Logging Application5</h1>
