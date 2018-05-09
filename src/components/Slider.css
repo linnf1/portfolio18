@@ -5,7 +5,9 @@
 body {
 
 }
-
+.smallerimg {
+  max-height: 500px;
+}
 .grey {
   color: black;
   background-color: #c7c7c7;

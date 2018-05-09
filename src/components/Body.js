@@ -2,7 +2,7 @@ import React from 'react';
 import Slider from './Slider.js'
 import Scroll from './Scroll.js'
 import './Body.css';
-import icons from './imgs/icons.png'
+import icons from './imgs/icons2.png'
 
 const Body = () => {
 	return(
@@ -26,7 +26,7 @@ const Body = () => {
 		   <div class="mw9 center black pt0">
 
               <h3 className="db dtc-ns v-mid-ns f2 f1-m f-headline measure-narrow h-title mv0">
-                <span className="tc bg-white-40 lh-copy black pa1 tracked-tight">
+                <span className="pl3 tc bg-white-40 lh-copy black pa1 tracked-tight">
                  Skilled with:
                 </span>
               </h3>
@@ -46,7 +46,7 @@ const Body = () => {
           </article>
           
            
-           <article class="dev2 mw0 center ph3 ph5-ns tc pv5 torq black mb0">
+           <article class="dev2 mw0 center ph3 ph5-ns tc pv5 bg-washed-green black mb0">
             <h1 class="fw6 f3 f2-ns lh-title mt0 mb3">
               Would you like to work together?
             </h1>

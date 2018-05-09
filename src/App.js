@@ -9,13 +9,13 @@ class App extends Component {
     return (
       <div className="">
         <div id='showcase' className="showcase">
-          <div className="bg-black-60 pb2 pb3-m">
+          <div className="bg-black-70 pb5 pb5-m">
             <Nav />
 
             <div className='floatimg pl5'>
-            <img src={logo} className="ba bw1 mb4 br-100 h5 w5 floatimg" alt="lf"/>
+            <img src={logo} className="ba bw2 mb4 br-100 h5 w5 floatimg" alt="lf"/>
             </div>
-            <div className="tc-l mt4 mt5-m mt6-l ph3">
+            <div className="tc-l mt4 mt4-m mt5-l ph3">
               <h3 className="f2 f1-m f-headline-l measure-narrow lh-title mv0">
                 <span className="bg-black-20 lh-copy white pa1 tracked-tight">
                   Linsey Falkner
