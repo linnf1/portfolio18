@@ -1,3 +1,39 @@
+.dev3 {
+	background-image: url('./imgs/icons.png');
+}
+
+
+
+.dev2 {
+	position: relative;
+	background: url('./imgs/scrolldev2.png') center center no-repeat fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	min-height: 100px;
+}
+
+.dev1 {
+	position: relative;
+	background: url('./imgs/scrolldev1.png') center center no-repeat fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	min-height: 30px;
+}
+
+.torq {
+  background-color: #A8FFE2;
+}
+
+.foot {
+	background-image: url('https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.pexels.com%2Fphotos%2F48606%2Fpexels-photo-48606.jpeg&f=1');
+	background-size: cover;
+	position: relative;
+}
+
 #showcase1 {
 	position: relative;
 	background: url('https://images.pexels.com/photos/6565/apple-desk-laptop-working.jpg?w=1260&h=750&auto=compress&cs=tinysrgb') center center no-repeat fixed; 
