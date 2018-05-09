@@ -2,11 +2,11 @@ import React from 'react';
 import './Slider.css';
 import Collapsible from 'react-collapsible';
 
-import t1 from './imgs/tab3.jpg';
-import t2 from './imgs/tab1.jpg';
-import t3 from './imgs/tab4.jpg';
-import t4 from './imgs/tab2.jpg';
-import t5 from './imgs/tab4.jpg';
+import t1 from './imgs/tab1.jpg';
+import t2 from './imgs/tab2.jpg';
+import t3 from './imgs/tab3.jpg';
+import t4 from './imgs/tab4.jpg';
+import t5 from './imgs/tab5.png';
 import otmock2 from './imgs/otmock2.jpg';
 import brainmock from './imgs/brainmock.jpg';
 import hkmock from './imgs/hkmock.jpg';
@@ -17,7 +17,7 @@ import robomock from './imgs/robomock.jpg';
 const Slider = () => {
 	return(
       <div id='tc center'>
-      <Collapsible triggerStyle={{float: 'none', margin: '0 auto'}} trigger={
+      <Collapsible open='true' triggerStyle={{float: 'none', margin: '0 auto'}} trigger={
         <div>
        <h1 class="tc grey dim f4 mv0 pv3 ph5">Overtime Logging Application</h1>
         </div>
@@ -48,7 +48,7 @@ const Slider = () => {
       
         <Collapsible triggerStyle={{background: 'red'}} trigger={
         <div>
-       <h1 class="tc dim f4 grey mv0 pv3 ph5">Smart Brain</h1>
+       <h1 class="grey tc dim f4 mv0 pv3 ph5">Smart Brain</h1>
         </div>
         }
         >
@@ -75,7 +75,7 @@ const Slider = () => {
       
         <Collapsible triggerStyle={{background: 'red'}} trigger={
         <div>
-       <h1 class="tc dim f4 grey mv0 pv3 ph5">Hawleyville Kennels</h1>
+       <h1 class="grey tc dim f4 mv0 pv3 ph5">Hawleyville Kennels</h1>
         </div>
         }
         >
@@ -134,7 +134,7 @@ const Slider = () => {
 
         <Collapsible triggerStyle={{background: 'red'}} trigger={
         <div>
-       <h1 class="tc dim f4 grey mv0 pv3 ph5">Overtime Logging Application2</h1>
+       <h1 class="tc dim f4 grey mv0 pv3 ph5">Other Project</h1>
         </div>
         }
         >

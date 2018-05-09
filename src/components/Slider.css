@@ -13,7 +13,7 @@ body {
 
 
 .grey:hover {
-  color: red;
+  color: #5FFFB8;
   background-color: #8c8c8c;
 }
 
@@ -38,7 +38,15 @@ body {
   background-size:100%;
 }
 .t5 {
-  background-image: url('./imgs/tab1.jpg');
+  background-image: url('./imgs/tab5.png');
   background-size:100%;
 }
 
+.t1, .t2, .t3, .t4, .t5 {
+   color: white;
+}
+
+.t1:hover, .t2:hover .t3:hover, .t4:hover, .t5:hover {
+   background-color: #8c8c8c; 
+    color: black;
+}
