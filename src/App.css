@@ -14,13 +14,13 @@ body {
 }
 .showcase {
 	position: relative;
-	background: url('http://mrmrs.github.io/photos/u/011.jpg') center center no-repeat fixed; 
+	background: url('https://get.pxhere.com/photo/desk-computer-work-apple-table-wood-technology-chair-office-shelf-furniture-macbook-air-glasses-rectangle-eyewear-shape-magic-mouse-935631.jpg') center center no-repeat fixed; 
       
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	min-height: 400px;
+	min-height: 600px;
 }
 
 /* http://mrmrs.github.io/photos/u/011.jpg    */  

@@ -1,12 +1,12 @@
 .dev3 {
-	background-image: url('./imgs/icons.png');
+	/*background-image: url();*/
 }
 
 
 
 .dev2 {
 	position: relative;
-	background: url('./imgs/scrolldev3.png') center center no-repeat fixed; 
+	background: url('./imgs/leftscroll.png') center center no-repeat fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -29,7 +29,7 @@
 }
 
 .foot {
-	background-image: url('https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.pexels.com%2Fphotos%2F48606%2Fpexels-photo-48606.jpeg&f=1');
+	background-image: url('https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.pexels.com%2Fphotos%2F59672%2Fpexels-photo-59672.jpeg&f=1');
 	background-size: cover;
 	position: relative;
 }
