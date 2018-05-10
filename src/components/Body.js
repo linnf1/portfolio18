@@ -54,7 +54,7 @@ const Body = () => {
               Im currently looking for the right job oppurtunity,
             </h2>
             <p class="fw1 f5 mt0 mb3">
-              You can call / email me or chek out the social links below
+              You can call / email me or check out the social links below
             </p>
             <div>
             <a class="f6 br-pill dark-green no-underline ba grow pv2 ph3 dib"

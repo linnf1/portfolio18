@@ -69,7 +69,7 @@ const Slider = () => {
    		  <div class="padme mw9 center pt0 pv0-m pv0-ns">
         <div class="db dtc-ns v-mid-ns">
           <p className="lh-copy f5 f3-ns measure">
-          Web application for face recongtion game ,where users level up in relation to other users for feeding the most faces into it.<br />
+          Web application for face recognition game ,where users level up in relation to other users for feeding the most faces into it.<br />
               <h5 className="f2 f1-m f-headline measure-narrow h-title mv0">
                 <span className="tc bg-white-60 lh-copy black pa1 tracked-tight">
                   Technologies Used:
